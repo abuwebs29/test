@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://test.abuwebs29.workers.dev/sitemap.xml
